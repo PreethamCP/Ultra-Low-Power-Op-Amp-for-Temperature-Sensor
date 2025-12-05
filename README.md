@@ -1,6 +1,6 @@
 # 🧊 Ultra-Low-Power Op-Amp for Temperature Sensor
 
-(Curerently Working)
+Status: Under Active Development
 
 This project aims to design and implement an **ultra low power operational amplifier (op-amp)** optimized for **temperature sensor applications**, where **minimum power consumption**, **precision**, and **stability across temperature** are critical.
 
