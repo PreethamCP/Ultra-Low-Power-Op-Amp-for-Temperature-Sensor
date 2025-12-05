@@ -1,3 +1,0 @@
-SOFTINCLUDE /home/buet/cadence/IC615/share/cdssetup/cds.lib
-DEFINE buffer /home/buet/Desktop/major_project/buffer
-DEFINE inv /home/buet/Desktop/major_project/inv
